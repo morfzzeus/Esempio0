@@ -10,5 +10,5 @@ def index():
 def prova():
     return "<h2>Pagina della route prova</h2>"
 
-
+#avvio dell'applicazione
 app.run(host = "localhost", debug = True)
